@@ -58,7 +58,7 @@ footer {
     }
 
     div img {
-        max-height: 45vh; /* Restrict image height to 30% of viewport height */
+        max-height: 30vh; /* Restrict image height to 30% of viewport height */
         width: 45vw; /* Maintain aspect ratio */
         margin: 5px;
     }
